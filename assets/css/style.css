@@ -1,0 +1,119 @@
+
+body {
+    font-family: 'Roboto Light', sans-serif;
+    font-weight: 300;
+}
+
+.logo-footer{
+    width: 80px;
+}
+.navbar {
+    background-color: #28A745;
+    color: white;
+    
+}
+.navbar img {
+    width: 100px;
+}
+.navbar a{
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+}
+.navbar button{
+    border: solid 1px ;
+}
+.navbar a:hover{
+    color: white;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+
+}
+
+.form{
+    background-color: #28A745;
+    color: white;
+    
+}
+.title{
+   
+    font-weight: 300;
+    font-size: 1.25em;
+    color: #707070;
+}
+
+.subtitle{
+  
+    font-weight: 300;
+    font-size: 1em;
+    color: #212529;
+    padding-top: 1em;
+}
+
+.subtitle i{
+    color: #707070;
+    padding-right: 0.5em;
+}
+.card-text{
+    font-weight: 300;
+    font-size: 1.25em;
+    color: #212529;
+}
+
+.card-place{
+    font-weight: 300;
+    font-size: 1em;
+    color: #707070;
+}
+.card-img-top {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+hr.solid{
+    border-top: 1px solid #707070;
+}
+
+.price{
+    font-weight: 300;
+    font-size: 1em;
+    color: #707070;
+    margin-bottom: 0;
+}
+.discount{
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.25em;
+    color: #28A745;
+    margin-bottom: 0;
+    font-weight: bold;
+}
+.address{
+    
+    font-size: 0.83em;
+    color: #707070;
+    
+}
+.lead{
+    background-color: #28A745;
+    
+    /* height: 500px; */
+}
+.lead h5{
+    color: white;
+    font-family: 'Roboto Medium', sans-serif;
+    font-size: 1em;
+}
+.lead form{
+    color: white;
+    font-family: 'Roboto Light', sans-serif;
+    font-size: 1em;
+}
+.lead button{
+    
+    font-family: 'Roboto Light', sans-serif;
+    font-size: 1em;
+}
